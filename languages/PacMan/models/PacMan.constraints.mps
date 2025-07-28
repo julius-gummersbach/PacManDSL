@@ -49,9 +49,6 @@
       <concept id="1153138554286" name="jetbrains.mps.lang.constraints.structure.ConstraintsFunctionParameter_propertyValue" flags="nn" index="1Wqviy" />
     </language>
   </registry>
-  <node concept="1M2fIO" id="3nh03ekz5d_">
-    <ref role="1M2myG" to="tmzl:3nh03ekyO5W" resolve="PacManWall" />
-  </node>
   <node concept="1M2fIO" id="3nh03ekz5gS">
     <ref role="1M2myG" to="tmzl:3nh03ekyNL2" resolve="MazeCoordinate" />
     <node concept="EnEH3" id="3nh03ekztGE" role="1MhHOB">

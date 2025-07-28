@@ -141,24 +141,6 @@
       <node concept="2iRkQZ" id="3nh03ekyOqb" role="2iSdaV" />
     </node>
   </node>
-  <node concept="24kQdi" id="3nh03ekyTjr">
-    <ref role="1XX52x" to="tmzl:3nh03ekyO5W" resolve="PacManWall" />
-    <node concept="3EZMnI" id="3nh03ekyTjC" role="2wV5jI">
-      <node concept="2iRfu4" id="3nh03ekyTjD" role="2iSdaV" />
-      <node concept="3F0ifn" id="3nh03ekyTkd" role="3EZMnx">
-        <property role="3F0ifm" value="Wall from" />
-      </node>
-      <node concept="3F1sOY" id="3nh03ekyTkL" role="3EZMnx">
-        <ref role="1NtTu8" to="tmzl:3nh03ekyO7R" resolve="start" />
-      </node>
-      <node concept="3F0ifn" id="3nh03ekyTl1" role="3EZMnx">
-        <property role="3F0ifm" value="to" />
-      </node>
-      <node concept="3F1sOY" id="3nh03ekyTl_" role="3EZMnx">
-        <ref role="1NtTu8" to="tmzl:3nh03ekyO8J" resolve="end" />
-      </node>
-    </node>
-  </node>
   <node concept="24kQdi" id="3nh03ekyTlX">
     <ref role="1XX52x" to="tmzl:3nh03ekyNL2" resolve="MazeCoordinate" />
     <node concept="3EZMnI" id="3nh03ekyTmw" role="2wV5jI">
