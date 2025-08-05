@@ -91,24 +91,5 @@
       <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
     </node>
   </node>
-  <node concept="1TIwiD" id="3nh03ekyO5W">
-    <property role="EcuMT" value="3877880975678194044" />
-    <property role="TrG5h" value="PacManWall" />
-    <property role="34LRSv" value="wall" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-    <node concept="1TJgyj" id="3nh03ekyO7R" role="1TKVEi">
-      <property role="IQ2ns" value="3877880975678194167" />
-      <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20kJfa" value="start" />
-      <property role="20lbJX" value="fLJekj4/_1" />
-      <ref role="20lvS9" node="3nh03ekyNL2" resolve="MazeCoordinate" />
-    </node>
-    <node concept="1TJgyj" id="3nh03ekyO8J" role="1TKVEi">
-      <property role="IQ2ns" value="3877880975678194223" />
-      <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20kJfa" value="end" />
-      <ref role="20lvS9" node="3nh03ekyNL2" resolve="MazeCoordinate" />
-    </node>
-  </node>
 </model>
 
