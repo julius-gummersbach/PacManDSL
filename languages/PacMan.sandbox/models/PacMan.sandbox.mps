@@ -41,7 +41,7 @@
     </node>
     <node concept="2xmzLL" id="4bISd59lJ5N" role="2xm$2x">
       <property role="2xmzMz" value="1" />
-      <property role="2xmzMk" value="5" />
+      <property role="2xmzMk" value="1" />
     </node>
     <node concept="2xmzLL" id="4bISd59lJ5O" role="2xm$l4">
       <property role="2xmzMz" value="10" />
