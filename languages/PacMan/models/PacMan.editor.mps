@@ -191,5 +191,23 @@
       <ref role="2$4xQ3" node="3nh03ek$3FB" resolve="textual" />
     </node>
   </node>
+  <node concept="24kQdi" id="4bISd59hUyZ">
+    <ref role="1XX52x" to="tmzl:3nh03ekyO5W" resolve="PacManWall" />
+    <node concept="3EZMnI" id="4bISd59hUz7" role="2wV5jI">
+      <node concept="3F0ifn" id="4bISd59hUzg" role="3EZMnx">
+        <property role="3F0ifm" value="Wall from " />
+      </node>
+      <node concept="3F1sOY" id="4bISd59hUzo" role="3EZMnx">
+        <ref role="1NtTu8" to="tmzl:3nh03ekyO7R" resolve="start" />
+      </node>
+      <node concept="3F0ifn" id="4bISd59hUzt" role="3EZMnx">
+        <property role="3F0ifm" value="to" />
+      </node>
+      <node concept="3F1sOY" id="4bISd59hUzy" role="3EZMnx">
+        <ref role="1NtTu8" to="tmzl:3nh03ekyO8J" resolve="end" />
+      </node>
+      <node concept="2iRfu4" id="4bISd59hUza" role="2iSdaV" />
+    </node>
+  </node>
 </model>
 

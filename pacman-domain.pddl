@@ -7,14 +7,14 @@
   (:predicates
     (pacman-at ?p - position)
     (food-at ?p - position)
-    (adjacent ?p1 - position ?p2 - position)
+    (wall ?p - position)
   )
 
   (:action move
     :parameters (?from - position ?to - position)
     :precondition (and
       (pacman-at ?from)
-      (adjacent ?from ?to)
+      (not (wall ?to))
     )
     :effect (and
       (not (pacman-at ?from))
