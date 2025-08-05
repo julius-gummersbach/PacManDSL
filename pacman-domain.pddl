@@ -19,15 +19,7 @@
     :effect (and
       (not (pacman-at ?from))
       (pacman-at ?to)
+      (not (food-at ?to))
     )
-  )
-
-  (:action eat
-    :parameters (?p - position)
-    :precondition (and
-      (pacman-at ?p)
-      (food-at ?p)
-    )
-    :effect (not (food-at ?p))
   )
 )
