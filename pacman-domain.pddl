@@ -7,7 +7,6 @@
   (:predicates
     (pacman-at ?p - position)
     (food-at ?p - position)
-    (visited ?p - position)
     (adjacent ?p1 - position ?p2 - position)
   )
 
@@ -20,7 +19,6 @@
     :effect (and
       (not (pacman-at ?from))
       (pacman-at ?to)
-      (visited ?to)
     )
   )
 
