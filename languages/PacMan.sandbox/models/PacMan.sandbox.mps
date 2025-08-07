@@ -21,31 +21,31 @@
     </language>
   </registry>
   <node concept="2xmz_a" id="4bISd59lJ5M">
-    <property role="2xmzBI" value="10" />
-    <property role="2xmzCT" value="10" />
+    <property role="2xmzBI" value="6" />
+    <property role="2xmzCT" value="5" />
     <node concept="2xmzLL" id="4bISd59lJ5P" role="2xm$5W">
-      <property role="2xmzMz" value="2" />
-      <property role="2xmzMk" value="5" />
+      <property role="2xmzMz" value="3" />
+      <property role="2xmzMk" value="1" />
     </node>
     <node concept="2xmzLL" id="4bISd59lJ5Q" role="2xm$5W">
-      <property role="2xmzMz" value="1" />
-      <property role="2xmzMk" value="5" />
+      <property role="2xmzMz" value="3" />
+      <property role="2xmzMk" value="2" />
     </node>
     <node concept="2xmzLL" id="4bISd59lJ5R" role="2xm$5W">
       <property role="2xmzMz" value="3" />
-      <property role="2xmzMk" value="5" />
+      <property role="2xmzMk" value="3" />
     </node>
     <node concept="2xmzLL" id="4bISd59lJ5S" role="2xm$5W">
-      <property role="2xmzMz" value="5" />
+      <property role="2xmzMz" value="3" />
       <property role="2xmzMk" value="5" />
     </node>
     <node concept="2xmzLL" id="4bISd59lJ5N" role="2xm$2x">
-      <property role="2xmzMz" value="1" />
+      <property role="2xmzMz" value="2" />
       <property role="2xmzMk" value="1" />
     </node>
     <node concept="2xmzLL" id="4bISd59lJ5O" role="2xm$l4">
-      <property role="2xmzMz" value="10" />
-      <property role="2xmzMk" value="10" />
+      <property role="2xmzMz" value="6" />
+      <property role="2xmzMk" value="2" />
     </node>
   </node>
 </model>
