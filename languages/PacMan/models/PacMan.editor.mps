@@ -155,7 +155,7 @@
               </node>
             </node>
             <node concept="3F0ifn" id="3nh03ekyOvX" role="3EZMnx">
-              <property role="3F0ifm" value=" wide and" />
+              <property role="3F0ifm" value="wide and" />
             </node>
             <node concept="3F0A7n" id="3nh03ekyOwm" role="3EZMnx">
               <ref role="1NtTu8" to="tmzl:3nh03ekyNCa" resolve="height" />
@@ -187,7 +187,7 @@
               </node>
             </node>
             <node concept="3F0ifn" id="7vy6wIqfrIq" role="3EZMnx">
-              <property role="3F0ifm" value=" high" />
+              <property role="3F0ifm" value="high" />
             </node>
           </node>
           <node concept="3F0ifn" id="3nh03ekyZis" role="3EZMnx" />
@@ -291,7 +291,7 @@
         </node>
       </node>
       <node concept="3F0ifn" id="3nh03ek$b$E" role="3EZMnx">
-        <property role="3F0ifm" value=" from the left and" />
+        <property role="3F0ifm" value="from the left and" />
       </node>
       <node concept="3F0A7n" id="3nh03ek$b_5" role="3EZMnx">
         <ref role="1NtTu8" to="tmzl:3nh03ekyNMB" resolve="y" />
@@ -323,7 +323,7 @@
         </node>
       </node>
       <node concept="3F0ifn" id="3nh03ek$b_Q" role="3EZMnx">
-        <property role="3F0ifm" value=" from the bottom" />
+        <property role="3F0ifm" value="from the bottom" />
       </node>
       <node concept="2iRfu4" id="3nh03ek$bzy" role="2iSdaV" />
     </node>
