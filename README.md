@@ -4,6 +4,8 @@ This project contains a DSL for generating `.pddl` files for a PacMan planning p
 
 It allows specifying instances of the PacMan Food-Problem (see below) without knowledge of `PDDL`.
 
+A corresponding seminar paper can be found at `./paper.pdf` (german)
+
 ## PacMan Food-Problem
 A PacMan Food-Problem consists of
 - A Maze (Dimensions and Walls)
